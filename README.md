@@ -1,6 +1,6 @@
 # Personal Website
 
-This repository contains the python script to generate [my homepage](https://m-niemeyer.github.io/). It is very easy to adapt to your needs, and easy to maintain as the papers are crawled automatically from `publication_list.bib` and the talks from `talk_list.bib`.
+This is the repository for my website. This is based on Michael Niemayer python script to generate a website. See [Michael Niemayer's Website](https://m-niemeyer.github.io/). It is meant to be easy to maintain by using bibtex (`publication_list.bib`). You can export to bibtex from many (most?) reference managers.
 
 ## How to use it
 1. Update and adjust the name and bio text in the function `get_personal_data` in the `build.py` file.

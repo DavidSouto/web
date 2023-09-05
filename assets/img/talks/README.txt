@@ -1,0 +1,1 @@
+put a jpg standing for a talk slide
